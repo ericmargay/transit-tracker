@@ -1,0 +1,3061 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-02-24T15:59:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 30384902,
+  "lat": 19.3533412,
+  "lon": -99.1449619,
+  "tags": {
+    "name": "General Anaya",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356888",
+    "wikimedia_commons": "Category:Estación General Anaya (Metro de México)",
+    "wikipedia": "es:General Anaya (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 30385126,
+  "lat": 19.3697710,
+  "lon": -99.1415858,
+  "tags": {
+    "name": "Portales",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356960",
+    "wikimedia_commons": "Category:Estación Portales (Metro de México)",
+    "wikipedia": "es:Portales (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 30385133,
+  "lat": 19.3793936,
+  "lon": -99.1402000,
+  "tags": {
+    "name": "Nativitas",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356904",
+    "wikimedia_commons": "Category:Estación Nativitas (Metro de México)",
+    "wikipedia": "es:Nativitas (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 30385139,
+  "lat": 19.3875657,
+  "lon": -99.1389557,
+  "tags": {
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Villa de Cortés",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356965",
+    "wikimedia_commons": "Category:Estación Villa de Cortés (Metro de México)",
+    "wikipedia": "es:Villa de Cortés (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 30385145,
+  "lat": 19.3951932,
+  "lon": -99.1378126,
+  "tags": {
+    "name": "Xola",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356924",
+    "wikimedia_commons": "Category:Estación Xola (Metro de México)",
+    "wikipedia": "es:Xola (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 30385148,
+  "lat": 19.4007878,
+  "lon": -99.1369072,
+  "tags": {
+    "name": "Viaducto",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3357024",
+    "wikimedia_commons": "Category:Estación Viaducto (Metro de México)",
+    "wikipedia": "es:Viaducto (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 30385186,
+  "lat": 19.4361674,
+  "lon": -99.1411221,
+  "tags": {
+    "name": "Bellas Artes",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 294082204,
+  "lat": 19.4071370,
+  "lon": -99.1444476,
+  "tags": {
+    "name": "Lázaro Cárdenas",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824617",
+    "wikimedia_commons": "Category:Estación Lázaro Cárdenas (Metro de México)",
+    "wikipedia": "es:Lázaro Cárdenas (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 294086737,
+  "lat": 19.4164089,
+  "lon": -99.0902724,
+  "tags": {
+    "name": "Gómez Farías",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356988",
+    "wikimedia_commons": "Category:Estación Gómez Farías (Metro de México)",
+    "wikipedia": "es:Gómez Farías (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 294088991,
+  "lat": 19.4267538,
+  "lon": -99.1420543,
+  "tags": {
+    "name": "Salto del Agua",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q740243",
+    "wikimedia_commons": "Category:Estación Salto del Agua (Metro de México)",
+    "wikipedia": "es:Salto del Agua (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 302327315,
+  "lat": 19.5151556,
+  "lon": -99.0360694,
+  "tags": {
+    "name": "Ecatepec",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wheelchair:description": "Hay elevador. accesando con tarjeta especial.",
+    "wikidata": "Q11681253",
+    "wikipedia": "es:Ecatepec (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 308554084,
+  "lat": 19.3615527,
+  "lon": -99.1892568,
+  "tags": {
+    "description": "Last public station on line",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Barranca del Muerto",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "voltage": "1500",
+    "wikidata": "Q2885482",
+    "wikimedia_commons": "Category:Estación Barranca del Muerto (Metro de México)",
+    "wikipedia": "es:Barranca del Muerto (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 308556308,
+  "lat": 19.3845079,
+  "lon": -99.1866332,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "San Antonio",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "voltage": "1500",
+    "wikidata": "Q6824698",
+    "wikimedia_commons": "Category:Estación San Antonio (Metro de México)",
+    "wikipedia": "es:San Antonio (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 308557541,
+  "lat": 19.4117501,
+  "lon": -99.1913845,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Constituyentes",
+    "name:ja": "コンスティトゥジェンテス",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "voltage": "1500",
+    "wikidata": "Q5944586",
+    "wikimedia_commons": "Category:Estación Constituyentes (Metro de México)",
+    "wikipedia": "es:Constituyentes (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 308561119,
+  "lat": 19.4249847,
+  "lon": -99.1922567,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Auditorio",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "voltage": "1500",
+    "wikidata": "Q6824492",
+    "wikimedia_commons": "Category:Estación Auditorio (Metro de México)",
+    "wikipedia": "es:Auditorio (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 308561120,
+  "lat": 19.4335300,
+  "lon": -99.1909150,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Polanco",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "voltage": "1500",
+    "wikidata": "Q6824672",
+    "wikimedia_commons": "Category:Estación Polanco (Metro de México)",
+    "wikipedia": "es:Polanco (estación, Metro de la Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 308562800,
+  "lat": 19.4696029,
+  "lon": -99.1904631,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Refinería",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "voltage": "1500",
+    "wikidata": "Q9067431",
+    "wikimedia_commons": "Category:Estación Refinería (Metro de México)",
+    "wikipedia": "es:Refinería (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 308564178,
+  "lat": 19.4791036,
+  "lon": -99.1900262,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Camarones",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "voltage": "1500",
+    "wikidata": "Q6824514",
+    "wikimedia_commons": "Category:Estación Camarones (Metro de México)",
+    "wikipedia": "es:Camarones (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 308564186,
+  "lat": 19.4905558,
+  "lon": -99.1952293,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Aquiles Serdán",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "voltage": "1500",
+    "wikidata": "Q6824477",
+    "wikimedia_commons": "Category:Estación Aquiles Serdán (Metro de México)",
+    "wikipedia": "es:Aquiles Serdán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 351113759,
+  "lat": 19.4880621,
+  "lon": -99.1350725,
+  "tags": {
+    "name": "Lindavista",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824614",
+    "wikimedia_commons": "Category:Estación Lindavista (Metro de México)",
+    "wikipedia": "es:Lindavista (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 351114417,
+  "lat": 19.4949382,
+  "lon": -99.1960298,
+  "tags": {
+    "name": "Tezozómoc",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824734",
+    "wikimedia_commons": "Category:Estación Tezozómoc (Metro de México)",
+    "wikipedia": "es:Tezozómoc (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 351114595,
+  "lat": 19.4908969,
+  "lon": -99.1862889,
+  "tags": {
+    "name": "UAM-Azcapotzalco",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824498",
+    "wikimedia_commons": "Category:Estación UAM-Azcapotzalco (Metro de México)",
+    "wikipedia": "es:UAM-Azcapotzalco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 351114805,
+  "lat": 19.4906783,
+  "lon": -99.1739130,
+  "tags": {
+    "name": "Ferrería/Arena Ciudad de México",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q619422",
+    "wikimedia_commons": "Category:Estación Ferrería/Arena Ciudad de México (Metro de México)",
+    "wikipedia": "es:Ferrería/Arena Ciudad de México (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 351114820,
+  "lat": 19.4886464,
+  "lon": -99.1629873,
+  "tags": {
+    "name": "Norte 45",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824650",
+    "wikimedia_commons": "Category:Estación Norte 45 (Metro de México)",
+    "wikipedia": "es:Norte 45 (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 351114867,
+  "lat": 19.4897759,
+  "lon": -99.1561238,
+  "tags": {
+    "name": "Vallejo",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824762",
+    "wikimedia_commons": "Category:Estación Vallejo (Metro de México)",
+    "wikipedia": "es:Vallejo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 351115062,
+  "lat": 19.4816035,
+  "lon": -99.1184474,
+  "tags": {
+    "name": "La Villa-Basílica",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wikidata": "Q2836136",
+    "wikimedia_commons": "Category:Estación La Villa-Basílica (Metro de México)",
+    "wikipedia": "es:La Villa-Basílica (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 506035217,
+  "lat": 19.3459153,
+  "lon": -99.0637399,
+  "tags": {
+    "name": "Constitución de 1917",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824546",
+    "wikimedia_commons": "Category:Estación Constitución de 1917 (Metro de México)",
+    "wikipedia": "es:Constitución de 1917 (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 554750099,
+  "lat": 19.3559895,
+  "lon": -99.0856882,
+  "tags": {
+    "name": "Cerro de la Estrella",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q8344273",
+    "wikimedia_commons": "Category:Estación Cerro de la Estrella (Metro de México)",
+    "wikipedia": "es:Cerro de la Estrella (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 554754754,
+  "lat": 19.3510000,
+  "lon": -99.0747979,
+  "tags": {
+    "name": "UAM-I",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824756",
+    "wikimedia_commons": "Category:Estación UAM-I (Metro de México)",
+    "wikipedia": "es:UAM-I (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555064969,
+  "lat": 19.3791527,
+  "lon": -99.1095076,
+  "tags": {
+    "name": "Apatlaco",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824476",
+    "wikimedia_commons": "Category:Estación Apatlaco (Metro de México)",
+    "wikipedia": "es:Apatlaco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555065028,
+  "lat": 19.3880913,
+  "lon": -99.1120396,
+  "tags": {
+    "name": "Iztacalco",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3431125",
+    "wikimedia_commons": "Category:Estación Iztacalco (Metro de México)",
+    "wikipedia": "es:Iztacalco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555066276,
+  "lat": 19.3649049,
+  "lon": -99.1095471,
+  "tags": {
+    "name": "Escuadrón 201",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3431185",
+    "wikimedia_commons": "Category:Estación Escuadrón 201 (Metro de México)",
+    "wikipedia": "es:Escuadrón 201 (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555066702,
+  "lat": 19.3733127,
+  "lon": -99.1076646,
+  "tags": {
+    "name": "Aculco",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824471",
+    "wikimedia_commons": "Category:Estación Aculco (Metro de México)",
+    "wikipedia": "es:Aculco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555069072,
+  "lat": 19.4083782,
+  "lon": -99.1125396,
+  "tags": {
+    "name": "Mixiuhca",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3431067",
+    "wikimedia_commons": "Category:Estación Mixiuhca (Metro de México)",
+    "wikipedia": "es:Mixiuhca (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555079051,
+  "lat": 19.4066635,
+  "lon": -99.1262600,
+  "tags": {
+    "name": "La Viga",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q9019049",
+    "wikimedia_commons": "Category:Estación La Viga (Metro de México)",
+    "wikipedia": "es:La Viga (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555079073,
+  "lat": 19.4132002,
+  "lon": -99.1440487,
+  "tags": {
+    "name": "Obrera",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824651",
+    "wikimedia_commons": "Category:Estación Obrera (Metro de México)",
+    "wikipedia": "es:Obrera (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555079083,
+  "lat": 19.4214424,
+  "lon": -99.1432200,
+  "tags": {
+    "name": "Doctores",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2837042",
+    "wikimedia_commons": "Category:Estación Doctores (Metro de México)",
+    "wikipedia": "es:Doctores (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 555081970,
+  "lat": 19.4312856,
+  "lon": -99.1413291,
+  "tags": {
+    "name": "San Juan de Letrán",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "train": "yes",
+    "wikidata": "Q5691609",
+    "wikimedia_commons": "Category:Estación San Juan de Letrán (Metro de México)",
+    "wikipedia": "es:San Juan de Letrán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 681448501,
+  "lat": 19.4449744,
+  "lon": -99.1917953,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "San Joaquín",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "voltage": "1500",
+    "wikidata": "Q6824700",
+    "wikimedia_commons": "Category:Estación San Joaquín (Metro de México)",
+    "wikipedia": "es:San Joaquín (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 681454741,
+  "lat": 19.3915073,
+  "lon": -99.1855297,
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "San Pedro de los Pinos",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "service": "yard",
+    "station": "subway",
+    "subway": "yes",
+    "voltage": "1500",
+    "wikidata": "Q5841189",
+    "wikimedia_commons": "Category:Estación San Pedro de los Pinos (Metro de México)",
+    "wikipedia": "es:San Pedro de los Pinos (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 842889550,
+  "lat": 19.4059029,
+  "lon": -99.1685264,
+  "tags": {
+    "name": "Chilpancingo",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3431073",
+    "wikimedia_commons": "Category:Estación Chilpancingo (Metro de México)",
+    "wikipedia": "es:Chilpancingo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1149526719,
+  "lat": 19.3602817,
+  "lon": -98.9952089,
+  "tags": {
+    "name": "Santa Marta",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q9074085",
+    "wikimedia_commons": "Category:Estación Santa Marta (Metro de México)",
+    "wikipedia": "es:Santa Marta (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1149526748,
+  "lat": 19.3590226,
+  "lon": -98.9768726,
+  "tags": {
+    "name": "Los Reyes",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824612",
+    "wikipedia": "es:Los Reyes (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1149526802,
+  "lat": 19.3505168,
+  "lon": -98.9609329,
+  "tags": {
+    "name": "La Paz",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824608",
+    "wikipedia": "es:La Paz (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 1155147125,
+  "lat": 19.3732744,
+  "lon": -99.0170442,
+  "tags": {
+    "name": "Peñón Viejo",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q9058930",
+    "wikimedia_commons": "Category:Estación Peñón Viejo (Metro de México)",
+    "wikipedia": "es:Peñón Viejo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1155147244,
+  "lat": 19.3851177,
+  "lon": -99.0356205,
+  "tags": {
+    "name": "Guelatao",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824577",
+    "wikimedia_commons": "Category:Estación Guelatao (Metro de México)",
+    "wikipedia": "es:Guelatao (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1155521581,
+  "lat": 19.3987640,
+  "lon": -99.0594334,
+  "tags": {
+    "name": "Canal de San Juan",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q6824517",
+    "wikimedia_commons": "Category:Estación Canal de San Juan (Metro de México)",
+    "wikipedia": "es:Canal de San Juan (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1155521678,
+  "lat": 19.4045642,
+  "lon": -99.0695045,
+  "tags": {
+    "name": "Agrícola Oriental",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q8191806",
+    "wikimedia_commons": "Category:Estación Agrícola Oriental (Metro de México)",
+    "wikipedia": "es:Agrícola Oriental (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1155638781,
+  "lat": 19.4120659,
+  "lon": -99.0827131,
+  "tags": {
+    "name": "Zaragoza",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3356989",
+    "wikimedia_commons": "Category:Estación Zaragoza (Metro de México)",
+    "wikipedia": "es:Zaragoza (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1155680835,
+  "lat": 19.4255407,
+  "lon": -99.1255053,
+  "tags": {
+    "name": "Merced",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356980",
+    "wikimedia_commons": "Category:Estación Merced (Metro de México)",
+    "wikipedia": "es:Merced (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1158001795,
+  "lat": 19.4263577,
+  "lon": -99.1378401,
+  "tags": {
+    "name": "Isabel la Católica",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356870",
+    "wikimedia_commons": "Category:Estación Isabel la Católica (Metro de México)",
+    "wikipedia": "es:Isabel la Católica (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 1991237943,
+  "lat": 19.2943676,
+  "lon": -99.0240388,
+  "tags": {
+    "name": "Tlaltenco",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2883637",
+    "wikimedia_commons": "Category:Estación Tlaltenco (Metro de México)",
+    "wikipedia": "es:Tlaltenco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2081866441,
+  "lat": 19.3613563,
+  "lon": -99.1514860,
+  "tags": {
+    "name": "Eje Central",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5644140",
+    "wikimedia_commons": "Category:Estación Eje Central (Metro de México)",
+    "wikipedia": "es:Eje central (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2081866443,
+  "lat": 19.3719536,
+  "lon": -99.1707596,
+  "tags": {
+    "name": "Hospital 20 de Noviembre",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5902535",
+    "wikimedia_commons": "Category:Estación Hospital 20 de Noviembre (Metro de México)",
+    "wikipedia": "es:Hospital 20 de Noviembre (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2081866445,
+  "lat": 19.3221728,
+  "lon": -99.0956838,
+  "tags": {
+    "name": "Lomas Estrella",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5978599",
+    "wikimedia_commons": "Category:Estación Lomas Estrella (Metro de México)",
+    "wikipedia": "es:Lomas Estrella (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2081866446,
+  "lat": 19.3205052,
+  "lon": -99.0858929,
+  "tags": {
+    "name": "Calle 11",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5740298",
+    "wikimedia_commons": "Category:Estación Calle 11 (Metro de México)",
+    "wikipedia": "es:Calle 11 (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2081866456,
+  "lat": 19.3576630,
+  "lon": -99.1226854,
+  "tags": {
+    "name": "Mexicaltzingo",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6012160",
+    "wikimedia_commons": "Category:Estación Mexicaltzingo (Metro de México)",
+    "wikipedia": "es:Mexicaltzingo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2081866461,
+  "lat": 19.3369090,
+  "lon": -99.1089421,
+  "tags": {
+    "name": "Culhuacán",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q5794406",
+    "wikimedia_commons": "Category:Estación Culhuacán (Metro de México)",
+    "wikipedia": "es:Culhuacán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2084929420,
+  "lat": 19.4492099,
+  "lon": -99.1718924,
+  "tags": {
+    "name": "Colegio Militar",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356873",
+    "wikimedia_commons": "Category:Estación Colegio Militar (Metro de México)",
+    "wikipedia": "es:Colegio Militar (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2160084598,
+  "lat": 19.4488073,
+  "lon": -99.1161420,
+  "tags": {
+    "name": "Canal del Norte",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824521",
+    "wikimedia_commons": "Category:Estación Canal del Norte (Metro de México)",
+    "wikipedia": "es:Canal del Norte (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2160084601,
+  "lat": 19.4547688,
+  "lon": -99.1131148,
+  "tags": {
+    "name": "Consulado L5",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2266111991,
+  "lat": 19.4646427,
+  "lon": -99.1119750,
+  "tags": {
+    "name": "Bondojito",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824506",
+    "wikimedia_commons": "Category:Estación Bondojito (Metro de México)",
+    "wikipedia": "es:Bondojito (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2266125571,
+  "lat": 19.4288048,
+  "lon": -99.1193914,
+  "tags": {
+    "name": "Candelaria L4",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2266125613,
+  "lat": 19.4215897,
+  "lon": -99.1205069,
+  "tags": {
+    "name": "Fray Servando",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824573",
+    "wikimedia_commons": "Category:Estación Fray Servando (Metro de México)",
+    "wikipedia": "es:Fray Servando (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2266125668,
+  "lat": 19.4108977,
+  "lon": -99.1217260,
+  "tags": {
+    "name": "Jamaica",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3377006",
+    "wikimedia_commons": "Category:Estación Jamaica (Metro de México)",
+    "wikipedia": "es:Jamaica (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 2266164095,
+  "lat": 19.4060319,
+  "lon": -99.1787520,
+  "tags": {
+    "name": "Patriotismo",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824665",
+    "wikimedia_commons": "Category:Estación Patriotismo (Metro de México)",
+    "wikipedia": "es:Patriotismo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2288627580,
+  "lat": 19.4631970,
+  "lon": -99.1304452,
+  "tags": {
+    "name": "Misterios",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824625",
+    "wikimedia_commons": "Category:Estación Misterios (Metro de México)",
+    "wikipedia": "es:Misterios (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2288627581,
+  "lat": 19.4590353,
+  "lon": -99.1200967,
+  "tags": {
+    "name": "Valle Gómez",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q9092402",
+    "wikimedia_commons": "Category:Estación Valle Gómez (Metro de México)",
+    "wikipedia": "es:Valle Gómez (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 2663332312,
+  "lat": 19.3281071,
+  "lon": -99.1044390,
+  "tags": {
+    "name": "San Andrés Tomatlán",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6118305",
+    "wikimedia_commons": "Category:Estación San Andrés Tomatlán (Metro de México)",
+    "wikipedia": "es:San Andrés Tomatlán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 3649087197,
+  "lat": 19.3437579,
+  "lon": -99.1396585,
+  "tags": {
+    "alt_name": "Taxqueña",
+    "name": "Tasqueña",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "train": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3357320",
+    "wikimedia_commons": "Category:Estación Tasqueña (Metro de México)",
+    "wikipedia": "es:Tasqueña (estación del metro)"
+  }
+},
+{
+  "type": "node",
+  "id": 3649370808,
+  "lat": 19.4272197,
+  "lon": -99.1419862,
+  "tags": {
+    "name": "Salto del Agua",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3649370809,
+  "lat": 19.3983360,
+  "lon": -99.1135033,
+  "tags": {
+    "name": "Coyuya",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824553",
+    "wikimedia_commons": "Category:Estación Coyuya (Metro de México)",
+    "wikipedia": "es:Coyuya (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 3650765703,
+  "lat": 19.3646704,
+  "lon": -99.0056430,
+  "tags": {
+    "name": "Acatitla",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00;Sa 06:00-24:00;Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824469",
+    "wikimedia_commons": "Category:Estación Acatitla (Metro de México)",
+    "wikipedia": "es:Acatitla (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 3692692973,
+  "lat": 19.3577446,
+  "lon": -99.0935577,
+  "tags": {
+    "name": "Iztapalapa",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q4204314",
+    "wikimedia_commons": "Category:Estación Iztapalapa (Metro de México)",
+    "wikipedia": "es:Iztapalapa (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 4688809545,
+  "lat": 19.4219541,
+  "lon": -99.1706287,
+  "tags": {
+    "name": "Sevilla",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3356943",
+    "wikimedia_commons": "Category:Estación Sevilla (Metro de México)",
+    "wikipedia": "es:Sevilla (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335244209,
+  "lat": 19.4449101,
+  "lon": -99.1451728,
+  "tags": {
+    "name": "Guerrero",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824578",
+    "wikimedia_commons": "Category:Estación Guerrero (Metro de México)",
+    "wikipedia": "es:Guerrero (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335255558,
+  "lat": 19.3543250,
+  "lon": -99.1751123,
+  "tags": {
+    "name": "Viveros-Derechos Humanos",
+    "network": "STC Metro",
+    "old_name": "Viveros",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q7335651",
+    "wikimedia_commons": "Category:Estación Viveros / Derechos Humanos (Metro de México)",
+    "wikipedia": "es:Viveros-Derechos Humanos (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335263290,
+  "lat": 19.3360586,
+  "lon": -99.1770655,
+  "tags": {
+    "name": "Copilco",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824550",
+    "wikimedia_commons": "Category:Estación Copilco (Metro de México)",
+    "wikipedia": "es:Copilco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335271955,
+  "lat": 19.3244753,
+  "lon": -99.1739054,
+  "tags": {
+    "name": "Universidad",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824764",
+    "wikimedia_commons": "Category:Estación Universidad (Metro de México)",
+    "wikipedia": "es:Universidad (estación de Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335289466,
+  "lat": 19.3706696,
+  "lon": -99.1648064,
+  "tags": {
+    "name": "Zapata",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824782",
+    "wikimedia_commons": "Category:Estación Zapata (Metro de México)",
+    "wikipedia": "es:Zapata (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335318010,
+  "lat": 19.3861257,
+  "lon": -99.1571902,
+  "tags": {
+    "name": "Eugenia",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824568",
+    "wikimedia_commons": "Category:Estación Eugenia (Metro de México)",
+    "wikipedia": "es:Eugenia (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335683975,
+  "lat": 19.4194180,
+  "lon": -99.1503020,
+  "tags": {
+    "name": "Niños Héroes",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q6824647",
+    "wikimedia_commons": "Category:Estación Niños Héroes / Poder Judicial CDMX (Metro de México)",
+    "wikipedia": "es:Niños Héroes (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335688062,
+  "lat": 19.4271218,
+  "lon": -99.1489658,
+  "tags": {
+    "name": "Balderas",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3356947",
+    "wikimedia_commons": "Category:Estación Balderas (Metro de México)",
+    "wikipedia": "es:Balderas (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335704171,
+  "lat": 19.4550140,
+  "lon": -99.1431694,
+  "tags": {
+    "name": "Tlatelolco",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3431323",
+    "wikimedia_commons": "Category:Estación Tlatelolco (Metro de México)",
+    "wikipedia": "es:Tlatelolco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335707477,
+  "lat": 19.4687443,
+  "lon": -99.1395180,
+  "tags": {
+    "name": "La Raza",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "railway": "station",
+    "station": "subway",
+    "wheelchair": "yes",
+    "wikidata": "Q3429492",
+    "wikimedia_commons": "Category:Estación La Raza (Metro de México)",
+    "wikipedia": "es:La Raza (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335749332,
+  "lat": 19.4020490,
+  "lon": -99.1874725,
+  "tags": {
+    "indoor": "yes",
+    "level": "-2",
+    "location": "underground",
+    "name": "Tacubaya",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2744158",
+    "wikimedia_commons": "Category:Estación Tacubaya (Metro de México)",
+    "wikipedia": "es:Tacubaya (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335750526,
+  "lat": 19.4129786,
+  "lon": -99.1819900,
+  "tags": {
+    "name": "Juanacatlán",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356938",
+    "wikimedia_commons": "Category:Estación Juanacatlán (Metro de México)",
+    "wikipedia": "es:Juanacatlán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335762554,
+  "lat": 19.4207020,
+  "lon": -99.1768378,
+  "tags": {
+    "name": "Chapultepec",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3357035",
+    "wikimedia_commons": "Category:Estación Chapultepec (Metro de México)",
+    "wikipedia": "es:Chapultepec (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5335789644,
+  "lat": 19.4259177,
+  "lon": -99.1330004,
+  "tags": {
+    "name": "Pino Suárez",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3357008",
+    "wikimedia_commons": "Category:Estación Pino Suárez (Metro de México)",
+    "wikipedia": "es:Pino Suárez (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5337579689,
+  "lat": 19.4295765,
+  "lon": -99.1209047,
+  "tags": {
+    "name": "Candelaria L1",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337596249,
+  "lat": 19.4231214,
+  "lon": -99.1023994,
+  "tags": {
+    "name": "Balbuena",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3356881",
+    "wikimedia_commons": "Category:Estación Balbuena (Metro de México)",
+    "wikipedia": "es:Balbuena (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339522597,
+  "lat": 19.4586893,
+  "lon": -99.2030401,
+  "tags": {
+    "name": "Panteones",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3357000",
+    "wikimedia_commons": "Category:Estación Panteones (Metro de México)",
+    "wikipedia": "es:Panteones (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339524622,
+  "lat": 19.4589010,
+  "lon": -99.1871316,
+  "tags": {
+    "name": "Tacuba",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356901",
+    "wikimedia_commons": "Category:Estación Tacuba (Metro de México)",
+    "wikipedia": "es:Tacuba (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339538498,
+  "lat": 19.4572284,
+  "lon": -99.1814675,
+  "tags": {
+    "name": "Cuitláhuac",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3357029",
+    "wikimedia_commons": "Category:Estación Cuitláhuac (Metro de México)",
+    "wikipedia": "es:Cuitláhuac (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339541353,
+  "lat": 19.4528599,
+  "lon": -99.1754624,
+  "tags": {
+    "name": "Popotla",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356929",
+    "wikimedia_commons": "Category:Estación Popotla (Metro de México)",
+    "wikipedia": "es:Popotla (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339546329,
+  "lat": 19.4445654,
+  "lon": -99.1673519,
+  "tags": {
+    "name": "Normal",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356995",
+    "wikimedia_commons": "Category:Estación Normal (Metro de México)",
+    "wikipedia": "es:Normal (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339546600,
+  "lat": 19.4391338,
+  "lon": -99.1539905,
+  "tags": {
+    "name": "Revolución",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3357042",
+    "wikimedia_commons": "Category:Estación Revolución (Metro de México)",
+    "wikipedia": "es:Revolución (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339549119,
+  "lat": 19.4419205,
+  "lon": -99.1606960,
+  "tags": {
+    "name": "San Cosme",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356972",
+    "wikimedia_commons": "Category:Estación San Cosme (Metro de México)",
+    "wikipedia": "es:San Cosme (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339555634,
+  "lat": 19.4325000,
+  "lon": -99.1322452,
+  "tags": {
+    "level": "-1",
+    "name": "Zócalo/Tenochtitlan",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "limited",
+    "wikidata": "Q3356920",
+    "wikimedia_commons": "Category:Estación Zócalo/Tenochtitlan (Metro de México)",
+    "wikipedia": "es:Zócalo/Tenochtitlan (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339567361,
+  "lat": 19.4160351,
+  "lon": -99.1345491,
+  "tags": {
+    "name": "San Antonio Abad",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q3356897",
+    "wikimedia_commons": "Category:Estación San Antonio Abad (Metro de México)",
+    "wikipedia": "es:San Antonio Abad (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5339640805,
+  "lat": 19.4090955,
+  "lon": -99.1355234,
+  "tags": {
+    "name": "Chabacano",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3317707",
+    "wikimedia_commons": "Category:Estación Chabacano (Metro de México)",
+    "wikipedia": "es:Chabacano (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5358301208,
+  "lat": 19.3177274,
+  "lon": -99.0746315,
+  "tags": {
+    "name": "Periférico Oriente",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6072488",
+    "wikimedia_commons": "Category:Estación Periférico Oriente (Metro de México)",
+    "wikipedia": "es:Periférico Oriente (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5358430107,
+  "lat": 19.4152415,
+  "lon": -99.0745031,
+  "tags": {
+    "name": "Pantitlán",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3352997",
+    "wikimedia_commons": "Category:Estación Pantitlán (Metro de México)",
+    "wikipedia": "es:Pantitlán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5358443126,
+  "lat": 19.4300375,
+  "lon": -99.1141346,
+  "tags": {
+    "name": "San Lázaro",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3356984",
+    "wikimedia_commons": "Category:Estación San Lázaro (Metro de México)",
+    "wikipedia": "es:San Lázaro (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5358459287,
+  "lat": 19.4439202,
+  "lon": -99.1388026,
+  "tags": {
+    "name": "Garibaldi-Lagunilla",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q1147620",
+    "wikimedia_commons": "Category:Estación Garibaldi / Lagunilla (Metro de México)",
+    "wikipedia": "es:Garibaldi-Lagunilla (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5358462886,
+  "lat": 19.4456761,
+  "lon": -99.0871750,
+  "tags": {
+    "name": "Oceanía",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "1981",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q522857",
+    "wikimedia_commons": "Category:Estación Oceanía (Metro de México)",
+    "wikipedia": "es:Oceanía (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5363864103,
+  "lat": 19.4827528,
+  "lon": -99.1068373,
+  "tags": {
+    "name": "Martín Carrera",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824623",
+    "wikimedia_commons": "Category:Estación Martín Carrera (Metro de México)",
+    "wikipedia": "es:Martín Carrera (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5382498627,
+  "lat": 19.5046746,
+  "lon": -99.1999321,
+  "tags": {
+    "name": "El Rosario",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5382514908,
+  "lat": 19.4843428,
+  "lon": -99.1250883,
+  "tags": {
+    "name": "Deportivo 18 de Marzo",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3431319",
+    "wikimedia_commons": "Category:Estación Deportivo 18 de Marzo (Metro de México)",
+    "wikipedia": "es:Deportivo 18 de Marzo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5383897872,
+  "lat": 19.4036700,
+  "lon": -99.1215493,
+  "tags": {
+    "name": "Santa Anita",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824703",
+    "wikimedia_commons": "Category:Estación Santa Anita (Metro de México)",
+    "wikipedia": "es:Santa Anita (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5383914298,
+  "lat": 19.4397067,
+  "lon": -99.1190037,
+  "tags": {
+    "name": "Morelos",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q9035123",
+    "wikimedia_commons": "Category:Estación Morelos (Metro de México)",
+    "wikipedia": "es:Morelos (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 5383932843,
+  "lat": 19.4065257,
+  "lon": -99.1551569,
+  "tags": {
+    "name": "Centro Médico",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q5810513",
+    "wikimedia_commons": "Category:Estación Centro Médico (Metro de México)",
+    "wikipedia": "es:Centro Médico (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 10171375840,
+  "lat": 19.4136617,
+  "lon": -99.1532797,
+  "tags": {
+    "name": "Hospital General",
+    "network": "STC Metro",
+    "platforms": "2",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824588",
+    "wikimedia_commons": "Category:Estación Hospital General (Metro de México)",
+    "wikipedia": "es:Hospital General (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 10173855113,
+  "lat": 19.2999294,
+  "lon": -99.0459579,
+  "tags": {
+    "name": "Nopalera",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "Esri World Imagery (2023-07-24)",
+    "start_date": "2012-10-30",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6044683",
+    "wikimedia_commons": "Category:Estación Nopalera (Metro de México)",
+    "wikipedia": "es:Nopalera (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 10564807710,
+  "lat": 19.3960312,
+  "lon": -99.1560330,
+  "tags": {
+    "name": "Etiopía/Plaza de la Transparencia",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3429486",
+    "wikimedia_commons": "Category:Estación Etiopía / Plaza de la Transparencia (Metro de México)",
+    "wikipedia": "es:Etiopía-Plaza de la Transparencia (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 11059788206,
+  "lat": 19.3062608,
+  "lon": -99.0651959,
+  "tags": {
+    "name": "Tezonco",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "Esri World Imagery (2021-05-04)",
+    "start_date": "2012-10-30",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6143783",
+    "wikimedia_commons": "Category:Estación Tezonco (Metro de México)",
+    "wikipedia": "es:Tezonco (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 11059788207,
+  "lat": 19.3042837,
+  "lon": -99.0594631,
+  "tags": {
+    "name": "Olivos",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "source": "Esri World Imagery (2021-05-04)",
+    "start_date": "2012-10-30",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6050104",
+    "wikimedia_commons": "Category:Estación Olivos (Metro de México)",
+    "wikipedia": "es:Olivos (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 11166740914,
+  "lat": 19.2966699,
+  "lon": -99.0342124,
+  "tags": {
+    "name": "Zapotitlán",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q9097529",
+    "wikimedia_commons": "Category:Estación Zapotitlán (Metro de México)",
+    "wikipedia": "es:Zapotitlán (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 11323110136,
+  "lat": 19.4236015,
+  "lon": -99.1633188,
+  "tags": {
+    "internet_access": "no",
+    "name": "Insurgentes",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3301776",
+    "wikimedia_commons": "Category:Estación Insurgentes (Metro de México)",
+    "wikipedia": "es:Insurgentes (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 12307021668,
+  "lat": 19.4355510,
+  "lon": -99.1371341,
+  "tags": {
+    "layer": "-1",
+    "location": "underground",
+    "name": "Allende",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q3287760",
+    "wikimedia_commons": "Category:Estación Allende (Metro de México)",
+    "wikipedia": "es:Allende (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 12526124489,
+  "lat": 19.4361649,
+  "lon": -99.1406403,
+  "tags": {
+    "name": "Bellas Artes",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2541953",
+    "wikimedia_commons": "Category:Estación Bellas Artes (Metro de México)",
+    "wikipedia": "es:Bellas Artes (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 12536496310,
+  "lat": 19.5006199,
+  "lon": -99.1491893,
+  "tags": {
+    "name": "Politécnico",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3431375",
+    "wikimedia_commons": "Category:Estación Politécnico (Metro de México)",
+    "wikipedia": "es:Politécnico (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 12602265863,
+  "lat": 19.3706329,
+  "lon": -99.1587820,
+  "tags": {
+    "name": "Parque de los Venados",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6062821",
+    "wikimedia_commons": "Category:Estación Parque de los Venados (Metro de México)",
+    "wikipedia": "es:Parque de los venados (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 12657126260,
+  "lat": 19.4269210,
+  "lon": -99.1433856,
+  "tags": {
+    "name": "Salto del Agua",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12662561163,
+  "lat": 19.4094101,
+  "lon": -99.1219076,
+  "tags": {
+    "name": "Jamaica",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3377006",
+    "wikimedia_commons": "Category:Estación Jamaica (Metro de México)",
+    "wikipedia": "es:Jamaica (estación del Metro de Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 12679525779,
+  "lat": 19.3600503,
+  "lon": -99.1432067,
+  "tags": {
+    "name": "Ermita",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "railway": "station",
+    "station": "subway",
+    "wikidata": "Q5256668",
+    "wikimedia_commons": "Category:Estación Ermita (Metro de México)",
+    "wikipedia": "es:Ermita (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 12736564590,
+  "lat": 19.4374065,
+  "lon": -99.1466643,
+  "tags": {
+    "name": "Hidalgo",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q2541914",
+    "wikimedia_commons": "Category:Estación Hidalgo (Metro de México)",
+    "wikipedia": "es:Hidalgo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 12785180677,
+  "lat": 19.4315049,
+  "lon": -99.1412928,
+  "tags": {
+    "name": "San Juan de Letrán",
+    "network": "STC Metro",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13037068477,
+  "lat": 19.4269635,
+  "lon": -99.1433804,
+  "tags": {
+    "name": "Salto del Agua",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13089071304,
+  "lat": 19.5213104,
+  "lon": -99.0333688,
+  "tags": {
+    "name": "Olímpica",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824654",
+    "wikipedia": "es:Olímpica (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089071305,
+  "lat": 19.5284747,
+  "lon": -99.0302011,
+  "tags": {
+    "name": "Plaza Aragón",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824670",
+    "wikipedia": "es:Plaza Aragón (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089071306,
+  "lat": 19.5345226,
+  "lon": -99.0275525,
+  "tags": {
+    "name": "Ciudad Azteca",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3431176",
+    "wikipedia": "es:Ciudad Azteca (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089350829,
+  "lat": 19.5014917,
+  "lon": -99.0420760,
+  "tags": {
+    "name": "Múzquiz",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q6824638",
+    "wikipedia": "es:Múzquiz (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089350834,
+  "lat": 19.4906012,
+  "lon": -99.0468467,
+  "tags": {
+    "name": "Río de Remedios",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q6824695",
+    "wikipedia": "es:Río de los Remedios (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089350835,
+  "lat": 19.4856920,
+  "lon": -99.0489971,
+  "tags": {
+    "name": "Impulsora",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "no",
+    "wikidata": "Q6824590",
+    "wikipedia": "es:Impulsora (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089350842,
+  "lat": 19.4728672,
+  "lon": -99.0546362,
+  "tags": {
+    "name": "Nezahualcóyotl",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824646",
+    "wikipedia": "es:Nezahualcóyotl (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089350843,
+  "lat": 19.4616807,
+  "lon": -99.0613470,
+  "tags": {
+    "name": "Villa de Aragón",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "1999",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824768",
+    "wikimedia_commons": "Category:Estación Villa de Aragón (Metro de México)",
+    "wikipedia": "es:Villa de Aragón (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089350844,
+  "lat": 19.4580731,
+  "lon": -99.0693400,
+  "tags": {
+    "name": "Bosque de Aragón",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "1999",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824508",
+    "wikimedia_commons": "Category:Estación Bosque de Aragón (Metro de México)",
+    "wikipedia": "es:Bosque de Aragón (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13089350845,
+  "lat": 19.4510853,
+  "lon": -99.0791851,
+  "tags": {
+    "name": "Deportivo Oceanía",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "start_date": "1999",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824555",
+    "wikimedia_commons": "Category:Estación Deportivo Oceanía (Metro de México)",
+    "wikipedia": "es:Deportivo Oceanía (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13092458094,
+  "lat": 19.4072200,
+  "lon": -99.0824754,
+  "tags": {
+    "name": "Puebla",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824679",
+    "wikimedia_commons": "Category:Estación Puebla (Metro de México)",
+    "wikipedia": "es:Puebla (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13092458095,
+  "lat": 19.4084666,
+  "lon": -99.0913474,
+  "tags": {
+    "name": "Ciudad Deportiva",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824544",
+    "wikimedia_commons": "Category:Estación Ciudad Deportiva (Metro de México)",
+    "wikipedia": "es:Ciudad Deportiva (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13092458096,
+  "lat": 19.4085614,
+  "lon": -99.1030767,
+  "tags": {
+    "name": "Velódromo",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824767",
+    "wikimedia_commons": "Category:Estación Velódromo (Metro de México)",
+    "wikipedia": "es:Velódromo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13092535103,
+  "lat": 19.4407943,
+  "lon": -99.0943848,
+  "tags": {
+    "name": "Romero Rubio",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824691",
+    "wikimedia_commons": "Category:Estación Romero Rubio (Metro de México)",
+    "wikipedia": "es:Romero Rubio (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13092535120,
+  "lat": 19.4366168,
+  "lon": -99.1036908,
+  "tags": {
+    "name": "Ricardo Flores Magón",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q601519",
+    "wikimedia_commons": "Category:Estación Ricardo Flores Magón (Metro de México)",
+    "wikipedia": "es:Ricardo Flores Magón (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094174901,
+  "lat": 19.4427945,
+  "lon": -99.1241748,
+  "tags": {
+    "name": "Tepito",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q5402969",
+    "wikimedia_commons": "Category:Estación Tepito (Metro de México)",
+    "wikipedia": "es:Tepito (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094174905,
+  "lat": 19.4432839,
+  "lon": -99.1318379,
+  "tags": {
+    "name": "Lagunilla",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824610",
+    "wikimedia_commons": "Category:Estación Lagunilla (Metro de México)",
+    "wikipedia": "es:Lagunilla (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094174915,
+  "lat": 19.4461432,
+  "lon": -99.1523648,
+  "tags": {
+    "name": "Buenavista",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q3431142",
+    "wikimedia_commons": "Category:Estación Buenavista (Metro de México)",
+    "wikipedia": "es:Buenavista (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094516124,
+  "lat": 19.4242775,
+  "lon": -99.0880008,
+  "tags": {
+    "name": "Hangares",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824582",
+    "wikimedia_commons": "Category:Estación Hangares (Metro de México)",
+    "wikipedia": "es:Hangares (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094516125,
+  "lat": 19.4339894,
+  "lon": -99.0882569,
+  "tags": {
+    "name": "Terminal Aérea",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824733",
+    "wikimedia_commons": "Category:Estación Terminal Aérea (Metro de México)",
+    "wikipedia": "es:Terminal Aérea (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094516128,
+  "lat": 19.4447282,
+  "lon": -99.0867166,
+  "tags": {
+    "name": "Oceanía",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q522857",
+    "wikimedia_commons": "Category:Estación Oceanía (Metro de México)",
+    "wikipedia": "es:Oceanía (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094516129,
+  "lat": 19.4512592,
+  "lon": -99.0962392,
+  "tags": {
+    "name": "Aragón",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824481",
+    "wikimedia_commons": "Category:Estación Aragón (Metro de México)",
+    "wikipedia": "es:Aragón (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094535905,
+  "lat": 19.4551068,
+  "lon": -99.1135125,
+  "tags": {
+    "name": "Consulado",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824549",
+    "wikimedia_commons": "Category:Estación Consulado (Metro de México)",
+    "wikipedia": "es:Consulado (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13094535906,
+  "lat": 19.4555288,
+  "lon": -99.1140041,
+  "tags": {
+    "name": "Consulado L5",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "stop_position",
+    "railway": "stop",
+    "station": "subway",
+    "subway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 13094535910,
+  "lat": 19.4513845,
+  "lon": -99.1052987,
+  "tags": {
+    "name": "Eduardo Molina",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824560",
+    "wikimedia_commons": "Category:Estación Eduardo Molina (Metro de México)",
+    "wikipedia": "es:Eduardo Molina (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13096079164,
+  "lat": 19.4256710,
+  "lon": -99.1545829,
+  "tags": {
+    "name": "Cuauhtémoc",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q3356912",
+    "wikimedia_commons": "Category:Estación Cuauhtémoc (Metro de México)",
+    "wikipedia": "es:Cuauhtémoc (estación del Metro de la Ciudad de México)"
+  }
+},
+{
+  "type": "node",
+  "id": 13096157888,
+  "lat": 19.4789381,
+  "lon": -99.1406076,
+  "tags": {
+    "name": "Autobuses del Norte",
+    "network": "STC Metro",
+    "opening_hours": "Mo-Fr 05:00-24:00; Sa 06:00-24:00; Su 07:00-24:00",
+    "operator": "Sistema de Transporte Colectivo",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q6824496",
+    "wikimedia_commons": "Category:Estación Autobuses del Norte (Metro de México)",
+    "wikipedia": "es:Autobuses del Norte (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13096174704,
+  "lat": 19.4894066,
+  "lon": -99.1447315,
+  "tags": {
+    "name": "Instituto del Petróleo",
+    "network": "STC Metro",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824591",
+    "wikimedia_commons": "Category:Estación Instituto del Petróleo (Metro de México)",
+    "wikipedia": "es:Instituto del Petróleo (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13100444139,
+  "lat": 19.4580517,
+  "lon": -99.1139258,
+  "tags": {
+    "name": "Consulado L4",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes",
+    "wikidata": "Q6824549",
+    "wikimedia_commons": "Category:Estación Consulado (Metro de México)",
+    "wikipedia": "es:Consulado (estación)"
+  }
+},
+{
+  "type": "node",
+  "id": 13193634255,
+  "lat": 19.4083515,
+  "lon": -99.1126643,
+  "tags": {
+    "layer": "-2",
+    "name": "Mixiuhca",
+    "network": "STC Metro",
+    "network:wikidata": "Q735042",
+    "public_transport": "station",
+    "railway": "station",
+    "station": "subway",
+    "subway": "yes"
+  }
+}
+
+  ]
+}

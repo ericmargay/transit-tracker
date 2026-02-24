@@ -151,3 +151,17 @@ DerivedData/
 .DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,xcode,macos
+
+# Web app
+web/.env
+web/frontend/node_modules/
+web/frontend/dist/
+web/frontend/.vite/
+web/backend/__pycache__/
+web/backend/**/__pycache__/
+web/backend/*.pyc
+web/backend/.venv/
+
+# ML models (large binary files)
+*.joblib
+*.pkl

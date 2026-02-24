@@ -1,0 +1,2555 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1449619,
+          19.3533412
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-general-anaya",
+        "stop_name": "General Anaya",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1415858,
+          19.369771
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-portales",
+        "stop_name": "Portales",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1402,
+          19.3793936
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-nativitas",
+        "stop_name": "Nativitas",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1389557,
+          19.3875657
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-villa-de-cortés",
+        "stop_name": "Villa de Cortés",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1378126,
+          19.3951932
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-xola",
+        "stop_name": "Xola",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1369072,
+          19.4007878
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-viaducto",
+        "stop_name": "Viaducto",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1411221,
+          19.4361674
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-bellas-artes",
+        "stop_name": "Bellas Artes",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1444476,
+          19.407137
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-lázaro-cárdenas",
+        "stop_name": "Lázaro Cárdenas",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0902724,
+          19.4164089
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-gómez-farías",
+        "stop_name": "Gómez Farías",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1420543,
+          19.4267538
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-salto-del-agua",
+        "stop_name": "Salto del Agua",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0360694,
+          19.5151556
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-ecatepec",
+        "stop_name": "Ecatepec",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1892568,
+          19.3615527
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-barranca-del-muerto",
+        "stop_name": "Barranca del Muerto",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1866332,
+          19.3845079
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-antonio",
+        "stop_name": "San Antonio",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1913845,
+          19.4117501
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-constituyentes",
+        "stop_name": "Constituyentes",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1922567,
+          19.4249847
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-auditorio",
+        "stop_name": "Auditorio",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.190915,
+          19.43353
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-polanco",
+        "stop_name": "Polanco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1904631,
+          19.4696029
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-refinería",
+        "stop_name": "Refinería",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1900262,
+          19.4791036
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-camarones",
+        "stop_name": "Camarones",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1952293,
+          19.4905558
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-aquiles-serdán",
+        "stop_name": "Aquiles Serdán",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1350725,
+          19.4880621
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-lindavista",
+        "stop_name": "Lindavista",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1960298,
+          19.4949382
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tezozómoc",
+        "stop_name": "Tezozómoc",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1862889,
+          19.4908969
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-uam-azcapotzalco",
+        "stop_name": "UAM-Azcapotzalco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.173913,
+          19.4906783
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-ferrería-arena-ciudad-de-méxico",
+        "stop_name": "Ferrería/Arena Ciudad de México",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1629873,
+          19.4886464
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-norte-45",
+        "stop_name": "Norte 45",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1561238,
+          19.4897759
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-vallejo",
+        "stop_name": "Vallejo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1184474,
+          19.4816035
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-la-villa-basílica",
+        "stop_name": "La Villa-Basílica",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0637399,
+          19.3459153
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-constitución-de-1917",
+        "stop_name": "Constitución de 1917",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0856882,
+          19.3559895
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-cerro-de-la-estrella",
+        "stop_name": "Cerro de la Estrella",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0747979,
+          19.351
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-uam-i",
+        "stop_name": "UAM-I",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1095076,
+          19.3791527
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-apatlaco",
+        "stop_name": "Apatlaco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1120396,
+          19.3880913
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-iztacalco",
+        "stop_name": "Iztacalco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1095471,
+          19.3649049
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-escuadrón-201",
+        "stop_name": "Escuadrón 201",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1076646,
+          19.3733127
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-aculco",
+        "stop_name": "Aculco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1125396,
+          19.4083782
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-mixiuhca",
+        "stop_name": "Mixiuhca",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.12626,
+          19.4066635
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-la-viga",
+        "stop_name": "La Viga",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1440487,
+          19.4132002
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-obrera",
+        "stop_name": "Obrera",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.14322,
+          19.4214424
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-doctores",
+        "stop_name": "Doctores",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1413291,
+          19.4312856
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-juan-de-letrán",
+        "stop_name": "San Juan de Letrán",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1917953,
+          19.4449744
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-joaquín",
+        "stop_name": "San Joaquín",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1855297,
+          19.3915073
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-pedro-de-los-pinos",
+        "stop_name": "San Pedro de los Pinos",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1685264,
+          19.4059029
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-chilpancingo",
+        "stop_name": "Chilpancingo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9952089,
+          19.3602817
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-santa-marta",
+        "stop_name": "Santa Marta",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9768726,
+          19.3590226
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-los-reyes",
+        "stop_name": "Los Reyes",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9609329,
+          19.3505168
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-la-paz",
+        "stop_name": "La Paz",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0170442,
+          19.3732744
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-peñón-viejo",
+        "stop_name": "Peñón Viejo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0356205,
+          19.3851177
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-guelatao",
+        "stop_name": "Guelatao",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0594334,
+          19.398764
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-canal-de-san-juan",
+        "stop_name": "Canal de San Juan",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0695045,
+          19.4045642
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-agrícola-oriental",
+        "stop_name": "Agrícola Oriental",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0827131,
+          19.4120659
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-zaragoza",
+        "stop_name": "Zaragoza",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1255053,
+          19.4255407
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-merced",
+        "stop_name": "Merced",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1378401,
+          19.4263577
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-isabel-la-católica",
+        "stop_name": "Isabel la Católica",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0240388,
+          19.2943676
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tlaltenco",
+        "stop_name": "Tlaltenco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.151486,
+          19.3613563
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-eje-central",
+        "stop_name": "Eje Central",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1707596,
+          19.3719536
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-hospital-20-de-noviembre",
+        "stop_name": "Hospital 20 de Noviembre",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0956838,
+          19.3221728
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-lomas-estrella",
+        "stop_name": "Lomas Estrella",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0858929,
+          19.3205052
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-calle-11",
+        "stop_name": "Calle 11",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1226854,
+          19.357663
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-mexicaltzingo",
+        "stop_name": "Mexicaltzingo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1089421,
+          19.336909
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-culhuacán",
+        "stop_name": "Culhuacán",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1718924,
+          19.4492099
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-colegio-militar",
+        "stop_name": "Colegio Militar",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.116142,
+          19.4488073
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-canal-del-norte",
+        "stop_name": "Canal del Norte",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1131148,
+          19.4547688
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-consulado-l5",
+        "stop_name": "Consulado L5",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.111975,
+          19.4646427
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-bondojito",
+        "stop_name": "Bondojito",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1193914,
+          19.4288048
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-candelaria-l4",
+        "stop_name": "Candelaria L4",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1205069,
+          19.4215897
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-fray-servando",
+        "stop_name": "Fray Servando",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.121726,
+          19.4108977
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-jamaica",
+        "stop_name": "Jamaica",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.178752,
+          19.4060319
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-patriotismo",
+        "stop_name": "Patriotismo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1304452,
+          19.463197
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-misterios",
+        "stop_name": "Misterios",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1200967,
+          19.4590353
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-valle-gómez",
+        "stop_name": "Valle Gómez",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.104439,
+          19.3281071
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-andrés-tomatlán",
+        "stop_name": "San Andrés Tomatlán",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1396585,
+          19.3437579
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tasqueña",
+        "stop_name": "Tasqueña",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1135033,
+          19.398336
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-coyuya",
+        "stop_name": "Coyuya",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.005643,
+          19.3646704
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-acatitla",
+        "stop_name": "Acatitla",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0935577,
+          19.3577446
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-iztapalapa",
+        "stop_name": "Iztapalapa",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1706287,
+          19.4219541
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-sevilla",
+        "stop_name": "Sevilla",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1451728,
+          19.4449101
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-guerrero",
+        "stop_name": "Guerrero",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1751123,
+          19.354325
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-viveros-derechos-humanos",
+        "stop_name": "Viveros-Derechos Humanos",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1770655,
+          19.3360586
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-copilco",
+        "stop_name": "Copilco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1739054,
+          19.3244753
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-universidad",
+        "stop_name": "Universidad",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1648064,
+          19.3706696
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-zapata",
+        "stop_name": "Zapata",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1571902,
+          19.3861257
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-eugenia",
+        "stop_name": "Eugenia",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.150302,
+          19.419418
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-niños-héroes",
+        "stop_name": "Niños Héroes",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1489658,
+          19.4271218
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-balderas",
+        "stop_name": "Balderas",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1431694,
+          19.455014
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tlatelolco",
+        "stop_name": "Tlatelolco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.139518,
+          19.4687443
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-la-raza",
+        "stop_name": "La Raza",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1874725,
+          19.402049
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tacubaya",
+        "stop_name": "Tacubaya",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.18199,
+          19.4129786
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-juanacatlán",
+        "stop_name": "Juanacatlán",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1768378,
+          19.420702
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-chapultepec",
+        "stop_name": "Chapultepec",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1330004,
+          19.4259177
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-pino-suárez",
+        "stop_name": "Pino Suárez",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1209047,
+          19.4295765
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-candelaria-l1",
+        "stop_name": "Candelaria L1",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1023994,
+          19.4231214
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-balbuena",
+        "stop_name": "Balbuena",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2030401,
+          19.4586893
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-panteones",
+        "stop_name": "Panteones",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1871316,
+          19.458901
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tacuba",
+        "stop_name": "Tacuba",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1814675,
+          19.4572284
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-cuitláhuac",
+        "stop_name": "Cuitláhuac",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1754624,
+          19.4528599
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-popotla",
+        "stop_name": "Popotla",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1673519,
+          19.4445654
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-normal",
+        "stop_name": "Normal",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1539905,
+          19.4391338
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-revolución",
+        "stop_name": "Revolución",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.160696,
+          19.4419205
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-cosme",
+        "stop_name": "San Cosme",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1322452,
+          19.4325
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-zócalo-tenochtitlan",
+        "stop_name": "Zócalo/Tenochtitlan",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1345491,
+          19.4160351
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-antonio-abad",
+        "stop_name": "San Antonio Abad",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1355234,
+          19.4090955
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-chabacano",
+        "stop_name": "Chabacano",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0746315,
+          19.3177274
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-periférico-oriente",
+        "stop_name": "Periférico Oriente",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0745031,
+          19.4152415
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-pantitlán",
+        "stop_name": "Pantitlán",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1141346,
+          19.4300375
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-san-lázaro",
+        "stop_name": "San Lázaro",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1388026,
+          19.4439202
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-garibaldi-lagunilla",
+        "stop_name": "Garibaldi-Lagunilla",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.087175,
+          19.4456761
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-oceanía",
+        "stop_name": "Oceanía",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1068373,
+          19.4827528
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-martín-carrera",
+        "stop_name": "Martín Carrera",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1999321,
+          19.5046746
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-el-rosario",
+        "stop_name": "El Rosario",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1250883,
+          19.4843428
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-deportivo-18-de-marzo",
+        "stop_name": "Deportivo 18 de Marzo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1215493,
+          19.40367
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-santa-anita",
+        "stop_name": "Santa Anita",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1190037,
+          19.4397067
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-morelos",
+        "stop_name": "Morelos",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1551569,
+          19.4065257
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-centro-médico",
+        "stop_name": "Centro Médico",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1532797,
+          19.4136617
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-hospital-general",
+        "stop_name": "Hospital General",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0459579,
+          19.2999294
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-nopalera",
+        "stop_name": "Nopalera",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.156033,
+          19.3960312
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-etiopía-plaza-de-la-transparencia",
+        "stop_name": "Etiopía/Plaza de la Transparencia",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0651959,
+          19.3062608
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tezonco",
+        "stop_name": "Tezonco",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0594631,
+          19.3042837
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-olivos",
+        "stop_name": "Olivos",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0342124,
+          19.2966699
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-zapotitlán",
+        "stop_name": "Zapotitlán",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1633188,
+          19.4236015
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-insurgentes",
+        "stop_name": "Insurgentes",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1371341,
+          19.435551
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-allende",
+        "stop_name": "Allende",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1491893,
+          19.5006199
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-politécnico",
+        "stop_name": "Politécnico",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.158782,
+          19.3706329
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-parque-de-los-venados",
+        "stop_name": "Parque de los Venados",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1432067,
+          19.3600503
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-ermita",
+        "stop_name": "Ermita",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1466643,
+          19.4374065
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-hidalgo",
+        "stop_name": "Hidalgo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0333688,
+          19.5213104
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-olímpica",
+        "stop_name": "Olímpica",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0302011,
+          19.5284747
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-plaza-aragón",
+        "stop_name": "Plaza Aragón",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0275525,
+          19.5345226
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-ciudad-azteca",
+        "stop_name": "Ciudad Azteca",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.042076,
+          19.5014917
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-múzquiz",
+        "stop_name": "Múzquiz",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0468467,
+          19.4906012
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-río-de-remedios",
+        "stop_name": "Río de Remedios",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0489971,
+          19.485692
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-impulsora",
+        "stop_name": "Impulsora",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0546362,
+          19.4728672
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-nezahualcóyotl",
+        "stop_name": "Nezahualcóyotl",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.061347,
+          19.4616807
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-villa-de-aragón",
+        "stop_name": "Villa de Aragón",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.06934,
+          19.4580731
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-bosque-de-aragón",
+        "stop_name": "Bosque de Aragón",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0791851,
+          19.4510853
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-deportivo-oceanía",
+        "stop_name": "Deportivo Oceanía",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0824754,
+          19.40722
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-puebla",
+        "stop_name": "Puebla",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0913474,
+          19.4084666
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-ciudad-deportiva",
+        "stop_name": "Ciudad Deportiva",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1030767,
+          19.4085614
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-velódromo",
+        "stop_name": "Velódromo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0943848,
+          19.4407943
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-romero-rubio",
+        "stop_name": "Romero Rubio",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1036908,
+          19.4366168
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-ricardo-flores-magón",
+        "stop_name": "Ricardo Flores Magón",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1241748,
+          19.4427945
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-tepito",
+        "stop_name": "Tepito",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1318379,
+          19.4432839
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-lagunilla",
+        "stop_name": "Lagunilla",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1523648,
+          19.4461432
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-buenavista",
+        "stop_name": "Buenavista",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0880008,
+          19.4242775
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-hangares",
+        "stop_name": "Hangares",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0882569,
+          19.4339894
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-terminal-aérea",
+        "stop_name": "Terminal Aérea",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0962392,
+          19.4512592
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-aragón",
+        "stop_name": "Aragón",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1135125,
+          19.4551068
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-consulado",
+        "stop_name": "Consulado",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1052987,
+          19.4513845
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-eduardo-molina",
+        "stop_name": "Eduardo Molina",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1545829,
+          19.425671
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-cuauhtémoc",
+        "stop_name": "Cuauhtémoc",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1406076,
+          19.4789381
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-autobuses-del-norte",
+        "stop_name": "Autobuses del Norte",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1447315,
+          19.4894066
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-instituto-del-petróleo",
+        "stop_name": "Instituto del Petróleo",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1139258,
+          19.4580517
+        ]
+      },
+      "properties": {
+        "stop_id": "metro-unknown-consulado-l4",
+        "stop_name": "Consulado L4",
+        "line_id": "metro-unknown",
+        "line_color": "#ffffff",
+        "is_transfer": false
+      }
+    }
+  ]
+}
